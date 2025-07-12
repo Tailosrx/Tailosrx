@@ -4,18 +4,13 @@
 
 
 🟠`My name is`: **Tailosrx but better call me Tai :)**
-
-<br />
+<br /><br />
 🟠`I'm currently learning`: **React and going deeper with js**
-
 <br /><br />
 🟠`I like`: **videogames, music, write rap, d&d and read books**
-
-<br />
+<br /><br />
 🟠`I have`: **Two cats, an orange cat (Tigri) and a white cat (Yoru)**
-
-<br />
-<br />
+<br /><br />
 <img src="https://i.imgur.com/YBxc3aC.jpeg" align="center" width="35%">
 
 
