@@ -3,7 +3,7 @@
 ###
 
 
-🟠`My name is`: **Tailosrx but better call me Tai :) **
+🟠`My name is`: **Tailosrx but better call me Tai :)**
 
 <br />
 🟠`I'm currently learning`: **React and going deeper with js**
