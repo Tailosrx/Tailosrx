@@ -6,7 +6,7 @@
 🟠`I'm currently learning`: **React and going deeper with js**
 🟠`I like`: **videogames, music, write rap, d&d and read books**
 🟠`I have`: **Two cats, an orange cat (Tigri) and a white cat (Yoru)**
-!(https://imgur.com/a/xYWy4ox)
+![](https://imgur.com/a/xYWy4ox)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Tailosrx&theme=tokyonight"  align="left" width="47%"/>
