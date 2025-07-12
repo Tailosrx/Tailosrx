@@ -1,6 +1,13 @@
-<h2 align="left">Hey 👋! Welcome to my Github</h2>
+<h2 align="left">Hey 👋!</h2>
 
 ###
+
+🟠`My name is`: **Tailosrx but better call me Tai :) **
+🟠`I'm currently learning`: **React and going deeper with js**
+🟠`I like`: **videogames, music, write rap, d&d and read books**
+🟠`I have`: **Two cats, an orange cat (Tigri) and a white cat (Yoru)**
+!(https://imgur.com/a/xYWy4ox)
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=Tailosrx&theme=tokyonight"  align="left" width="47%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tailosrx" align="left" width="47%"/>
