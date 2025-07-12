@@ -8,7 +8,7 @@
 <br />
 🟠`I'm currently learning`: **React and going deeper with js**
 
-<br />
+<br /><br />
 🟠`I like`: **videogames, music, write rap, d&d and read books**
 
 <br />
